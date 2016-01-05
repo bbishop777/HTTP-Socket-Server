@@ -1,0 +1,20 @@
+{
+  "name": "http-socket-server",
+  "version": "1.0.0",
+  "description": "## Basic http server accepting socket connections via net.Server",
+  "main": "client.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bbishop777/HTTP-Socket-Server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bbishop777/HTTP-Socket-Server/issues"
+  },
+  "homepage": "https://github.com/bbishop777/HTTP-Socket-Server#readme"
+}
